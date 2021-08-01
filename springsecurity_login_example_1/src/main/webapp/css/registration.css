@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+#div{
+	display: block;
+ 
+}
+
+div#form{
+	float:none;
+    margin: 100px auto 0;
+	max-height: 1400px;
+	max-width: 600px;
+	border: 3px solid black;
+	border-radius: 14px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 20px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
